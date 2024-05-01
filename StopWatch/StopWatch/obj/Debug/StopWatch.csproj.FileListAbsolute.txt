@@ -1,0 +1,14 @@
+D:\Project\Visual\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.AssemblyReference.cache
+D:\Project\Visual\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.GenerateResource.cache
+D:\Project\Visual\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.CoreCompileInputs.cache
+D:\Project\Visual\StopWatch\StopWatch\obj\Debug\StopWatch.MDIParent1.resources
+D:\Project\Visual\StopWatch\StopWatch\obj\Debug\StopWatch.stopWatch.resources
+D:\Project\Visual\StopWatch\StopWatch\obj\Debug\MDI.Properties.Resources.resources
+D:\Project\Visual\StopWatch\StopWatch\obj\Debug\MDI.digitalClock.resources
+D:\Project\Visual\StopWatch\StopWatch\bin\Debug\MDI.exe.config
+D:\Project\Visual\StopWatch\StopWatch\bin\Debug\MDI.exe
+D:\Project\Visual\StopWatch\StopWatch\bin\Debug\MDI.pdb
+D:\Project\Visual\StopWatch\StopWatch\bin\Debug\Properties.Resources.Designer.cs.dll
+D:\Project\Visual\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.Up2Date
+D:\Project\Visual\StopWatch\StopWatch\obj\Debug\MDI.exe
+D:\Project\Visual\StopWatch\StopWatch\obj\Debug\MDI.pdb
